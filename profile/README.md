@@ -4,5 +4,5 @@ Open-source SwiftUI components, design system, and developer tooling used across
 
 ---
 
-- Website: https://oversize.app
-- App Store: https://apps.apple.com/us/developer/alexander-romanov/id1459928735
+Website: https://oversize.app
+App Store: https://apps.apple.com/us/developer/alexander-romanov/id1459928735

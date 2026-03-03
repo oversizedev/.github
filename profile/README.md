@@ -1,8 +1,8 @@
-Native apps for Apple platforms.
+![Oversize](https://cdn.oversize.design/assets/brand/github-header.png)
 
-Open-source SwiftUI components, design system, and developer tooling used across all Oversize apps.
+SwiftUI design system and developer tooling built for Oversize apps.
+Everything here is [MIT licensed](https://github.com/oversizedev/.github/blob/main/LICENSE)
 
 ---
 
-- Website: https://oversize.app
-- App Store: https://apps.apple.com/us/developer/alexander-romanov/id1459928735
+Apps available on the [App Store](https://apps.apple.com/us/developer/alexander-romanov/id1459928735)
